@@ -1,1 +1,1 @@
-# .assets
+# cdn
